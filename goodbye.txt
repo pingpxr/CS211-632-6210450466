@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 merry christmas and happy new years
+=======
+merry christmas
+>>>>>>> master1
